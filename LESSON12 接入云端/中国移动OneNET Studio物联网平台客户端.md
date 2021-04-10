@@ -6,7 +6,7 @@ OneNET Studio支持多种方式接入，包括MQTT, CoAP, LWM2M等， 钛极OS(T
 
 ## Java包
 
-tijos.framework.networkcenter.onenet、
+tijos.framework.networkcenter.onenet
 
 ### OneNET Studio MQTT客户端 - OneNetMqttClient类
 
